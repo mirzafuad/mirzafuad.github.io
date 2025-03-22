@@ -1,4 +1,3 @@
-# mirzafuad.github.io
 # Mirza Fuad Adnan  
 ![Profile Photo](images/profile.jpg) <!-- Upload a photo to `/images/profile.jpg` -->
 
